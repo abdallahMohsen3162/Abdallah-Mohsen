@@ -22,7 +22,7 @@ export default function Landing() {
         <div className='desc'>
             <h1>Hi, I'm Abdallah Mohsen </h1>
             <h1>and I'm a  </h1>
-            <h1 className='job-title'>Front end Developer  </h1>
+            <h1 className='job-title'>Fullstack Developer  </h1>
         </div>
 
         <div className='visual'>
