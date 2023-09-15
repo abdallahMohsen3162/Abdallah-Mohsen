@@ -40,11 +40,13 @@ import inter from "../../../public/inter.png";
 import graph from "../../../public/graph.png";
 import bondi from "../../../public//bonci.png";
 import alarm from "../../../public/alarm.png";
+import metro from "../../../public/metro.png";
 
 SwiperCore.use([Navigation, Pagination, EffectCoverflow]);
 
 export default function SwiperCoverflow() {
     let links = [
+      "https://metro-rouge.vercel.app/",
       "https://react-hamburgers.vercel.app/",
       "https://flash-store.vercel.app/",
       "https://alarm-react-eight.vercel.app/",
@@ -63,6 +65,7 @@ export default function SwiperCoverflow() {
       "https://react-calculator-rust-one.vercel.app/"
     ]
     let arr = [
+      metro,
       burger,
       flash,
       alarm,
