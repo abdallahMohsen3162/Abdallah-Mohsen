@@ -41,6 +41,7 @@ import graph from "../../../public/graph.png";
 import bondi from "../../../public//bonci.png";
 import alarm from "../../../public/alarm.png";
 import metro from "../../../public/metro.png";
+import ecommerce from "../../../public/ecommerce.png";
 
 SwiperCore.use([Navigation, Pagination, EffectCoverflow]);
 
@@ -62,7 +63,8 @@ export default function SwiperCoverflow() {
       "https://abdallahmohsen3162.github.io/PROFILE/indesx",
       "https://abdallahmohsen3162.github.io/bondi/indesx",
       "https://protalio.com/en",
-      "https://react-calculator-rust-one.vercel.app/"
+      "https://react-calculator-rust-one.vercel.app/",
+      "https://vadaxi.vercel.app/"
     ]
     let arr = [
       metro,
