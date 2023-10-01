@@ -47,6 +47,7 @@ SwiperCore.use([Navigation, Pagination, EffectCoverflow]);
 
 export default function SwiperCoverflow() {
     let links = [
+      "https://vadaxi.vercel.app/",
       "https://metro-rouge.vercel.app/",
       "https://react-hamburgers.vercel.app/",
       "https://flash-store.vercel.app/",
@@ -64,9 +65,10 @@ export default function SwiperCoverflow() {
       "https://abdallahmohsen3162.github.io/bondi/indesx",
       "https://protalio.com/en",
       "https://react-calculator-rust-one.vercel.app/",
-      "https://vadaxi.vercel.app/"
+      
     ]
     let arr = [
+      ecommerce,
       metro,
       burger,
       flash,
