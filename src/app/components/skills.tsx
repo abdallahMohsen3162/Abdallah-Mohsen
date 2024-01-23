@@ -24,6 +24,7 @@ export default function Skills() {
         "Postgresql",
         "Sass",
         "Typescript",
+        "Laravel"
     ]
   return (
     <>
