@@ -1,7 +1,8 @@
 import React from 'react'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 import Image from 'next/image';
-import img from "../../../public/64645620_869024723458308_1197866069616754688_n.jpg"
+import img from "../../../public/ecpc.jpg"
+
 export default function Landing() {
   return (
     <div className='landing' id='landing'>
