@@ -7,6 +7,7 @@ import Projects from "./components/Projects"
 import Skills from "./components/skills"
 import Contact from "./components/contact"
 import Footer from "./components/footer"
+import Projects_describtion from "./components/projects_describtion"
 export default function Home() {
   return (
     <main>
@@ -17,6 +18,7 @@ export default function Home() {
         < Skills />
         <br /><br /><br /><br />
         <br /><br />
+        < Projects_describtion />
         <br /><br /><br /><br />
         <br /><br />
       < Contact />
