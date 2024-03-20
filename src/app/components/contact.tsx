@@ -28,14 +28,7 @@ export default function Contact() {
             <br /> <br />
             
             <div className='links'>
-                <a href='https://www.facebook.com/ana.baa.11/'>
-                    < Image 
-                    src={face}
-                    alt=''
-                    width={30}
-                    height={30}
-                    />
-                </a>
+   
 
                 <a href='https://github.com/abdallahMohsen3162?tab=repositories'>
                     < Image 
