@@ -2,6 +2,7 @@ import React from 'react'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 import Image from 'next/image';
 import img from "../../../public/ecpc.jpg"
+import imgII from "../../../public/me.png"
 
 export default function Landing() {
   return (
@@ -28,7 +29,7 @@ export default function Landing() {
 
         <div className='visual'>
             < Image 
-                src={img}
+                src={imgII}
                 width={250}
                 height={250}
                 alt='photo'
