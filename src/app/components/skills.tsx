@@ -19,6 +19,7 @@ export default function Skills() {
         "Ajax",
         "Json",
         "Git",
+        "Docker",
         "TensorFlow",
         "Sklearn",
         "Postgresql",
