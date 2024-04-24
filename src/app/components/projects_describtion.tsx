@@ -44,6 +44,12 @@ let backends = [
     desc:"xo online game, network socket, nextjs13, typescript, bootstrap, the game provides dynamic board size with good time complexity",
     link:'https://github.com/abdallahMohsen3162/dynamic-online-xo'
   },
+  {
+    src:dict,
+    title:"quiz generator",
+    desc:"App to learn english and a quiz generator (nextjs, laravel, mysql)",
+    link:'https://github.com/abdallahMohsen3162/dictionary-app-laravel'
+  },
 ]
 
 let priv = [
@@ -78,13 +84,6 @@ let priv = [
     desc:"Interactive game with vanilla javascript and canvas js",
     link:'https://abdallahmohsen3162.github.io/gameinfinix/'
   },
-  {
-    src:dict,
-    title:"quiz generator",
-    desc:"App to learn english and a quiz generator (nextjs, laravel, mysql)",
-    link:'https://github.com/abdallahMohsen3162/dictionary-app-laravel'
-  },
-  
 ]
 import profile from "../../../public/profile.gif";
 import bondi from "../../../public/bondi.gif";
