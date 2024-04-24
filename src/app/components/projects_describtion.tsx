@@ -38,18 +38,19 @@ let backends = [
     desc:"Django based website for students affair,courses registration sytem, postgresql database",
     link:'https://github.com/abdallahMohsen3162/students-affairs-project-2022'
   },
+   {
+    src:dict,
+    title:"quiz generator",
+    desc:"App to learn english and a quiz generator (nextjs, laravel, mysql)",
+    link:'https://github.com/abdallahMohsen3162/dictionary-app-laravel'
+  }, 
   {
     src:xo,
     title:"XO online game",
     desc:"xo online game, network socket, nextjs13, typescript, bootstrap, the game provides dynamic board size with good time complexity",
     link:'https://github.com/abdallahMohsen3162/dynamic-online-xo'
   },
-  {
-    src:dict,
-    title:"quiz generator",
-    desc:"App to learn english and a quiz generator (nextjs, laravel, mysql)",
-    link:'https://github.com/abdallahMohsen3162/dictionary-app-laravel'
-  },
+
 ]
 
 let priv = [
