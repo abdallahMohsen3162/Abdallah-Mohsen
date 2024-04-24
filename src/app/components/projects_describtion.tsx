@@ -11,6 +11,7 @@ import stu from "../../../public/stu.gif";
 import balls from "../../../public/balls.gif";
 import xo from "../../../public/xo.gif";
 import prot from "../../../public/protalio.gif";
+import dict from "../../../public/dict.gif";
 
 let backends = [
   {
@@ -76,6 +77,12 @@ let priv = [
     title:"ball jump",
     desc:"Interactive game with vanilla javascript and canvas js",
     link:'https://abdallahmohsen3162.github.io/gameinfinix/'
+  },
+  {
+    src:dict,
+    title:"quiz generator",
+    desc:"App to learn english and a quiz generator (nextjs, laravel, mysql)",
+    link:'https://github.com/abdallahMohsen3162/dictionary-app-laravel'
   },
   
 ]
