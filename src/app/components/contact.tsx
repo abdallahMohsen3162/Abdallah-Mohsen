@@ -16,6 +16,7 @@ export default function Contact() {
 
         <div className='part1'>
             < Image 
+                loading='lazy'
                 src={ecpc}
                 alt=''
                 width={300}
