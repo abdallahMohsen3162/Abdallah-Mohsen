@@ -114,6 +114,7 @@ export default function SwiperCoverflow() {
                     <SwiperSlide>
                         <a href={links[idx]}>
                             < Image 
+                              loading='lazy'
                                 src={el}
                                 alt=""
                                 className="swipper-project-img"
