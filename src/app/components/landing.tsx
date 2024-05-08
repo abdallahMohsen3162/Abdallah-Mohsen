@@ -29,6 +29,7 @@ export default function Landing() {
 
         <div className='visual'>
             < Image 
+		    loading='lazy'
                 src={imgII}
                 width={250}
                 height={250}
