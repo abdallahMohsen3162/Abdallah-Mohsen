@@ -9,6 +9,7 @@ export default function OneProject({mediaURL, desc, title, link}:any) {
     <div className='box-project'>
          <div>
                < Image 
+                 loading='lazy'
                   alt=''
                   src={mediaURL}
                />
