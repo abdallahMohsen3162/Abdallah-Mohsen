@@ -15,7 +15,7 @@ export default function OneProject({mediaURL, desc, title, link}:any) {
                />
          </div>
 
-         <div className='text'>
+         <div className='text' style={{width:"100%"}}>
             <div>
                   <h2 className='text-light'>{title}</h2>
             </div>
