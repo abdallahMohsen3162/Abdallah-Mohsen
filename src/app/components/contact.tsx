@@ -24,7 +24,7 @@ export default function Contact() {
             />
             <div className='desc'>
                 <p>Abdallah Mohsen</p>
-                <p>Web develober</p>
+                <p>Software engineer</p>
             </div>
             <br /> <br />
             
