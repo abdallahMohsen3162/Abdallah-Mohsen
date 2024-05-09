@@ -12,9 +12,9 @@ export default function Home() {
   return (
     <main>
         < Landing />
-        < Projects />
+{/*         < Projects />
         <br /> <br />
-        <br /> <br /> <br /><br />
+        <br /> <br /> <br /><br /> */}
         < Skills />
         <br /><br /><br /><br />
         <br /><br />
