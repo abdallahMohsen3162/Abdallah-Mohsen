@@ -14,6 +14,7 @@ export default function Skills() {
         "Redux toolkit",
         "Bootstrap",
         "Tailwind",
+        "Hostgator",
         "Rest api",
         "Mongodb",
         "Ajax",
